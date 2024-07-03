@@ -2,8 +2,9 @@ package testes;
 
 public class TestarGit {
 
-  Public static void main(String[] args){
-      system.out.print("Receba!");
+  public static void main(String[] args){
+      System.out.print("Receba!");
+      System.out.println("Se ler já sabe");
   }
 
 }
